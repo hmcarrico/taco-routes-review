@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
+import Header from './Components/Header/Header';
+import routes from './routes';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div>
-        <div className="App">
-          <h1>TACO TUESDAY AFTER CLASS REVIEW!</h1>
-        </div>
         <div>
-
+          <Header />
+          {routes}
         </div>
       </div>
     );

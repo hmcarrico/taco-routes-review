@@ -9,6 +9,7 @@ const tacoBrowse = [
         url: 'http://mediad.publicbroadcasting.net/p/kwmu/files/styles/x_large/public/201508/tacos.jpg'
     },
 ];
+
 const tacoEspeciales = [
     {
         url: 'https://www.deltaco.com/images/specials/2018promo11/21218_2018promo11_special01.jpg'
@@ -20,6 +21,7 @@ const tacoEspeciales = [
         url: 'https://assets.simpleviewcms.com/simpleview/image/fetch/c_limit,q_75,w_1200/https://res.cloudinary.com/simpleview/image/upload/crm/sandysprings/huey-luey-s-Taco-Tuesday-resized-9d102a4d5056b3a_9d102b26-5056-b3a8-498fc8b831e6f901.jpg'
     },
 ];
+
 const tacoMemes = [
     {
         url: 'https://www.laughtard.com/wp-content/uploads/2018/10/153ffde6e5e4986abd1f3294ed43bf6c-taco-humor-taco-funny.jpg'
